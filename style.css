@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;900&display=swap');
+body{
+  font-family: 'Roboto', sans-serif;
+}
+
+h1{
+
+  text-align: center;
+  font-size: 50px;
+  font-weight: 900;
+  padding-top: 3%;
+  
+}
+
+#cat1{
+
+    width: 160px;
+    border: 2px solid #451d1d;
+
+    position:absolute;
+    top: 20%; /*let it go between 20% and 80%*/
+    left: 50%; /*let it be between 0% and 90%*/ 
+    
+}
