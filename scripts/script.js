@@ -39,8 +39,9 @@ kitten.addEventListener("mouseover", function() {
     } while (distance(actualPosition, new_position)<60);
 
     kitten.style.top = new_position[1]+'%';
-    kitten.style.left = new_position[0]+'%';
+    kitten.style.left = new_position[0]+'%';    
 
+        //he'll cry pls stop :(
     audios[randomIntBetween(0, audios.length-1)].play();
 
 });
