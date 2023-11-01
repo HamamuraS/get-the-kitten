@@ -1,3 +1,8 @@
+/*
+
+Author: Santiago Ezequiel Hamamura
+
+*/
 
 let kitten = document.getElementById("cat1");
 
