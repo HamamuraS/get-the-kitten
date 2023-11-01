@@ -15,10 +15,10 @@ h1{
 #cat1{
 
     width: 160px;
-    border: 2px solid #451d1d;
+    /*border: 2px solid #451d1d; no box better*/
 
     position:absolute;
-    top: 20%; /*let it go between 20% and 80%*/
+    top: 20%; /*let it be between 20% and 80%*/
     left: 50%; /*let it be between 0% and 90%*/ 
     
 }
